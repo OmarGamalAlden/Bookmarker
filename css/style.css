@@ -1,0 +1,68 @@
+.headerContent h3 {
+  display: block;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #aaa;
+  margin-left: 40px;
+  margin-bottom: 50px;
+}
+.headerContent {
+  border-bottom: 1px solid #999;
+  width: 89%;
+  margin: auto;
+}
+
+.homeContent {
+  background-color: #eee;
+  border: none;
+  text-align: center;
+  padding: 30px;
+}
+.bookMarkDetails {
+  background-color: #eee;
+}
+.homeBtn {
+  width: 85px;
+  height: 40px;
+  margin: auto;
+  background-color: blue;
+  color: white;
+  border: 0px blue;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+.Deatils h2 {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.Deatils span {
+  font-weight: bold;
+  color: #333;
+  margin: 15px 0px;
+}
+.footerLine {
+  border-top: 1px solid #999;
+  width: 89%;
+  margin: auto;
+}
+.footerLine p {
+  display: block;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #aaa;
+  margin-left: 40px;
+}
+.buttons button {
+  border: 0px;
+  border-radius: 8px;
+  height: 40px;
+  width: 45%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin: 3px;
+}
+.buttons a {
+  color: black;
+}
